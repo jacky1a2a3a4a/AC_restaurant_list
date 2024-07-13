@@ -1,6 +1,8 @@
 # Project Title
-![image](https://github.com/jacky1a2a3a4a/Restaurant-List_Demo/blob/main/Restaurant%20List_demo.gif)
-it's website you can search favorite restaurant.
+![image](https://github.com/jacky1a2a3a4a/Restaurant-List_Demo/blob/53cdc60ed8d754f94aa180b7b1181351b07e151d/Restaurant%20List_img%20(1).png)
+![image](https://github.com/jacky1a2a3a4a/Restaurant-List_Demo/blob/53cdc60ed8d754f94aa180b7b1181351b07e151d/Restaurant%20List_img%20(2).png)
+
+* it's website you can search favorite restaurant.
 
 ## Features
 * Click a specific restaurant to show the information on the detail page.
