@@ -1,8 +1,9 @@
 # Restaurant-List (Demo)
+it's a website you can search favorite restaurant and get the detail information about restaurantes, like the name, the rating, and the picture.
+
+## Image Demonstration
 ![image](https://github.com/jacky1a2a3a4a/Restaurant-List_Demo/blob/53cdc60ed8d754f94aa180b7b1181351b07e151d/Restaurant%20List_img%20(1).png)
 ![image](https://github.com/jacky1a2a3a4a/Restaurant-List_Demo/blob/53cdc60ed8d754f94aa180b7b1181351b07e151d/Restaurant%20List_img%20(2).png)
-
-* it's website you can search favorite restaurant.
 
 ## Features
 * Click a specific restaurant to show the information on the detail page.
@@ -10,12 +11,24 @@
 
 ## Getting Started
 ### Installing
-1. Clone the repository: `https://github.com/jacky1a2a3a4a/Restaurant-List_Demo`
-2. Move to Restaurant-List_Demo directory: `cd /Restaurant-List_Demo`
-3. Restore the dependencies: `npm install`
+1. open your `terminal`, clone the repository:
+```
+$ git clone https://github.com/jacky1a2a3a4a/Restaurant-List_Demo
+```
+2. Move to Restaurant-List_Demo directory:
+```
+$ cd /Restaurant-List_Demo
+```
+3. Restore the dependencies: 
+```
+$ npm install
+```
 
 ### Excuting program
-1. Launch the application: `npm run dev`
+1. Launch the application: 
+```
+$ npm run dev
+```
 2. Browse the URL `http://localhost:3000` on the terminal.
 
 ### Dependencies:
@@ -44,5 +57,6 @@ Restaurant-List_Demo
 "dev": "nodemon app.js"
 ```
 ## Authors
-Jacky1a2a3a4a
+* [Alpha Camp](https://tw.alphacamp.co/) - provide project template.
+* [Jacky1a2a3a4a](https://gist.github.com/jacky1a2a3a4a) - build this project with express.js based on provided project template.
 
